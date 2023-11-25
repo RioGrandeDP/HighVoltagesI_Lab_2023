@@ -1,5 +1,5 @@
 # HighVoltagesI_Lab_2023
-LaTeX Lab Reports for "High Voltages I" @ thmmy AUTH, 2023
+Lab Reports in LaTeX for "High Voltages I" @ thmmy AUTH, 2023
 
 
 # Authors
